@@ -17,7 +17,7 @@ interface AdminDashboardProps {
   onBack: () => void;
 }
 
-const supplyChainContractAddress = '0xDb768D6B85C0A6E67D97c5b5dC6f15CccCdc888c' as const;
+const supplyChainContractAddress = '0x510f467A018d827d8eA79f467E8564c19a7a76b1' as const;
 
 const roleMapping: { [key: number]: string } = {
   0: 'norole',

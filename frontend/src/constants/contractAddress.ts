@@ -1,2 +1,2 @@
 // Replace this with your actual deployed contract address
-export const supplyChainContractAddress = '0xDb768D6B85C0A6E67D97c5b5dC6f15CccCdc888c' as const; 
+export const supplyChainContractAddress = '0x510f467A018d827d8eA79f467E8564c19a7a76b1' as const; 
